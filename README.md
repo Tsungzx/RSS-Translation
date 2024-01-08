@@ -11,7 +11,4 @@
 
 ## 已转换翻译源
 
- - source001 [https://pubmed.ncbi.nlm.nih.gov/rss/search/1XoGOxMvv5pGHbnvszo07Nr33RuvKkcI5RJzYh_ph3vjMmSwLQ/?limit=15&utm_campaign=pubmed-2&fc=20230612085633](https://pubmed.ncbi.nlm.nih.gov/rss/search/1XoGOxMvv5pGHbnvszo07Nr33RuvKkcI5RJzYh_ph3vjMmSwLQ/?limit=15&utm_campaign=pubmed-2&fc=20230612085633) -> [Pubmed.xml](rss/Pubmed.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
- - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
+ - source001 [https://pubmed.ncbi.nlm.nih.gov/rss/journals/101560960/?limit=15&name=Front%20Immunol&utm_campaign=journals](https://pubmed.ncbi.nlm.nih.gov/rss/journals/101560960/?limit=15&name=Front%20Immunol&utm_campaign=journals) -> [Immu](rss/Immu)
